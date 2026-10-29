@@ -1,0 +1,7 @@
+{
+  "name": "Ultimate Tool Suite",
+  "description": "A comprehensive suite of text, image, document, time, code, and design tools with a new landing page for easy navigation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
